@@ -1,1 +1,2 @@
 # PacMan-Eating-Your-Screen
+This project is for my MIT xPro Coding Bootcamp. We are using a setInterval function to move a PacMan across a page and returning it back across once it reaches the page boundaries. 
